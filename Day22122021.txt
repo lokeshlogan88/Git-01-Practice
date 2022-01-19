@@ -1,0 +1,141 @@
+AWS ---> Brand 
+
+Cloud Computing= On demand Delivery Service through Internet 
+
+Virtualization --> Remote 
+
+RIR--> Remote Internet Rental
+----------------------------------------------------
+
+Three Different types of services
+
+IAAS- Infrastructure As A Service
+
+Virtualization
+Server
+Storage
+Network
+
+PAAS- Platform As A Service
+
+Runtime
+Middleware
+O/s
+Virtualization
+Server
+Storage
+Network
+
+SAAS- Software As A Service
+Applications
+data
+Runtime
+Middleware
+O/s
+Virtualization
+Server
+Storage
+Network
+
+On Premises 
+---------------------
+
+Applications
+data
+Runtime
+Middleware
+O/s
+Virtualization
+Server
+Storage
+Network
+----------------------------
+
+Application Engg
+Data Engg
+Network Engg
+Server Engg
+Security Engg
+Storage Engg 
+-----------------------
+
+ Deployment (Cloud Types) Model
+----------------------------------------------------------
+
+1. Public
+2. Private
+3. Hybrid (Public + Private)
+
+===============================================
+
+Pay-As-You-Go Service 
+
+----------------------------------------
+
+AWS --->Amazon Web Services 
+------------------------------------------------------
+
+Cloud Computing was introducted by AWS in the year 2006
+North Virginia, USA 
+
+S3 (Simple Storage Service), EC2-> Elastic Compute Cloud
+--------------------------------------------------------------------------------------------------
+Advantages
+----------------------
+200+ services 
+Pay As You Go Service
+Global Insfastructure->  26 geographic regions , 84 AZs ( Work load Management & Availability)
+Scalability
+Security
+--------------------------------------------------
+IAAS
+
+Compute Domain/ Server engg 
+EC2---> Elastic Compute Cloud
+----------------------------------------------------
+
+Instance ---> Virtual Server / Remote Server/ virtual Machine 
+
+Use Cases 
+------------------
+
+Instance
+Region AZs 
+Instance Types
+
+Security
+-------------
+Key Pairs
+Security Group
+Storage EBS 
+O/S 
+ AMI
+============================
+
+Instance Types
+---------------------------
+
+Based on Price
+Based On Usage
+====================
+
+Based On Price
+-------------------------
+1. On Demand -> No Term Agreement  
+2. Reserved -> Term Agreement (66% discount) 
+3. Dedicated -> No Shared Service 
+4. On Spot --> Auction (90% lesser cost)
+
+=======================
+
+EC2 server 
+
+aws.amazon.com--> aws account creation 
+Debit / credit 
+Visa or Master 
+HDFC AXIS & SBI 
+
+
+Putty App
+winscp
+
